@@ -1,6 +1,6 @@
 # datamonitor
 <p align="center">
-<img src="" alt="Andromasoft logo"/>
+<img src="" alt=""/>
 </p>
 
 <b>Full-Stack Windows Data Monitor App</b>
